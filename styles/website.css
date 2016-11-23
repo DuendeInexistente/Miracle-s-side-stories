@@ -3,3 +3,7 @@
     white-space: normal;
 	text-align: center;
 }
+
+.book-header h1 {
+    font-size: 15px;
+}
