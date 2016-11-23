@@ -1,5 +1,6 @@
 # Summary
 
-* [00](00.md)
+* [Introduction](README.md)
+* [00 (In which mimes talk)](00.md)
 * [01](01.md)
 
