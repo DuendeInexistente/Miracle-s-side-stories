@@ -3,5 +3,9 @@
         "anchors",
         "comment"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "comment": {
+            "highlightCommented": true
+        }
+    }
 }
