@@ -2,8 +2,8 @@ Several side stories for Miracle.
 
 Including:
 
- -[What happened inside Sarim's forest](00.md).
-
+* [00 (In which mimes talk)](00.md)
+* [01 (In which deserts have no desserts)](01.md)
 
 
 ---
